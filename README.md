@@ -4,4 +4,4 @@ Requirement
 
 Running on port 5000
 
-Base Url: <url>:5000/s3/
+Base_URL: (Your Url):5000/s3/
